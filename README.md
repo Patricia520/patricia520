@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente aprendendo JavaScript e React
-- 🌱 Fazendo curso no SENAI
+- 🌱 Cursando Técnico em Desenvolvimento de Sistemas no SENAI
 - ⚡ Focada em front-end
 - 😄 Pronouns: Ela/Dela
 
