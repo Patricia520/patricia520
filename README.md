@@ -8,7 +8,7 @@
 
 - ### Olá eu sou a Patrícia Gonçalves 🧝🧙🧙🪄
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/patty.gsr/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patty.gsr/)
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patr%C3%ADcia-gon%C3%A7alves-ramos-b6310a2b9/)
 
 
