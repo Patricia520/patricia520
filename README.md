@@ -12,7 +12,7 @@
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patr%C3%ADcia-gon%C3%A7alves-ramos-b6310a2b9/)
 
 
-!![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardosantana214&show_icons=true&theme=synthwave)
+!![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patricia520&show_icons=true&theme=synthwave)
 
 ## Tecnologias que eu uso no meu dia a dia
 <!-- criar uma div com inline-block para por as imagens do badges -->
