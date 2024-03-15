@@ -8,7 +8,7 @@ Estudante de Desenvolvimento de Sistemas no SENAI, apaixonada por tecnologia e p
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patty.gsr/)
-[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patr%C3%ADcia-gon%C3%A7alves-ramos-b6310a2b9/)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/patrícia-gonçalves-b6310a2b9)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patricia520&show_icons=true&theme=synthwave)
