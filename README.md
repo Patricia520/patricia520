@@ -2,8 +2,8 @@
 
 
 - 🔭 Atualmente aprendendo JavaScript e React
-- 🌱 Cursando Técnico em Desenvolvimento de Sistemas no SENAI
-- ⚡ Futuramente trabalhando em Front-End
+- :mortar_board: Cursando Técnico em Desenvolvimento de Sistemas no SENAI
+- :space_invader: Futuramente trabalhando em Front-End
 - 😄 Pronouns: Ela/Dela
 
 
