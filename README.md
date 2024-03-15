@@ -1,10 +1,9 @@
 ### Olá! Eu sou a Patrícia Gonçalves 👋💻
-
+Estudante dedicada de Desenvolvimento de Sistemas no SENAI, apaixonada por tecnologia e programação. Busco constantemente aprimorar minhas habilidades e conhecimentos na área, com foco em contribuir para soluções inovadoras e eficientes.
 
 - 🔭 Atualmente aprendendo JavaScript e React
-- :mortar_board: Cursando Técnico em Desenvolvimento de Sistemas no SENAI
 - :space_invader: Futuramente trabalhando em Front-End
-- 😄 Pronouns: Ela/Dela
+
 
 
 
